@@ -79,11 +79,11 @@
 
         layer_Photoshop {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &kp LS(N5)            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans      &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans      &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans      &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans      &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &macro_100percent  &trans  &trans  &trans  &kp LS(N5)            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans             &trans  &trans  &trans  &trans      &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans             &trans  &trans  &trans  &trans      &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans             &trans  &trans  &trans  &trans      &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans             &trans  &trans  &trans  &trans   &kp SPACE            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
