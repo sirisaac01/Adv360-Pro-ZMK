@@ -63,7 +63,7 @@
  &trans  &trans  &trans  &trans  &trans  &trans             &none   &none  &trans  &trans  &trans           &trans             &trans      &trans
  &trans  &trans  &trans  &trans  &trans  &trans             &none  &trans  &trans                           &trans             &trans       &none  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans             &none   &none  &trans   &none   &none           &trans              &none       &none  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &kp C_VOLUME_UP  &kp C_VOLUME_DOWN  &kp K_MUTE  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &kp C_VOLUME_UP  &kp C_VOLUME_DOWN  &kp C_MUTE  &trans  &trans
             >;
         };
 
@@ -79,11 +79,11 @@
 
         layer_Photoshop {
             bindings = <
-    &kp LG(N1)  &macro_100percent          &trans  &trans  &trans  &macro_5percent                       &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-    &kp LG(N0)             &trans          &trans  &trans  &trans           &trans            &kp RIGHT_BRACKET  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+    &kp RG(N1)  &macro_100percent          &trans  &trans  &trans  &macro_5percent                       &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+    &kp RG(N0)             &trans          &trans  &trans  &trans           &trans            &kp RIGHT_BRACKET  &trans  &trans  &trans  &trans  &trans  &trans  &trans
         &trans             &trans          &trans  &trans  &trans           &trans             &kp LEFT_BRACKET  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &kp LS(LG(Z))             &trans          &trans  &trans  &trans           &trans                       &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-     &kp LG(Z)       &kp UP_ARROW  &kp DOWN_ARROW  &trans  &trans        &kp SPACE                       &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &kp LS(RG(Z))             &trans          &trans  &trans  &trans           &trans                       &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+     &kp RG(Z)       &kp UP_ARROW  &kp DOWN_ARROW  &trans  &trans        &kp SPACE                       &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
