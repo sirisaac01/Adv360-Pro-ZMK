@@ -35,11 +35,11 @@
         "&none",        "&none",        "&none",        "&none",        "&none",           "&none",                            "&none",       "&none",        "&none",        "&none",           "&none",        "&none",        "&none",                  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",   "&bl BL_INC",   "&bl BL_DEC", "&rgb_ug RGB_TOG",                       "&bl BL_TOG",       "&none",        "&none",   "&bl BL_TOG", "&rgb_ug RGB_TOG",   "&bl BL_INC",   "&bl BL_DEC",                  "&none",  "&none",  "&none"
     ], [
-          "&kp RG(N1)", "&macro_100percent",         "&trans", "&trans", "&trans", "&macro_5percent",                      "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-          "&kp RG(N0)",            "&trans",         "&trans", "&trans", "&trans",          "&trans",           "&kp RIGHT_BRACKET", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-              "&trans",            "&trans",         "&trans", "&trans", "&trans",          "&trans",            "&kp LEFT_BRACKET", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&kp LS(RG(Z))",            "&trans",         "&trans", "&trans", "&trans",          "&trans",                      "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-           "&kp RG(Z)",      "&kp UP_ARROW", "&kp DOWN_ARROW", "&trans", "&trans",       "&kp SPACE",                      "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans"
+          "&kp RG(N1)", "&macro_100percent",         "&trans", "&trans", "&trans", "&macro_5percent",           "&trans",           "&trans",            "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+          "&kp RG(N0)",            "&trans",         "&trans", "&trans", "&trans",          "&trans",           "&trans",           "&trans",            "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+              "&trans",            "&trans",         "&trans", "&trans", "&trans",          "&trans",           "&trans",           "&trans",            "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&kp LS(RG(Z))",            "&trans",         "&trans", "&trans", "&trans",          "&trans",           "&trans",           "&trans", "&kp RIGHT_BRACKET", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+           "&kp RG(Z)",      "&kp UP_ARROW", "&kp DOWN_ARROW", "&trans", "&trans",       "&kp SPACE",           "&trans", "&kp LEFT_BRACKET",            "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
   ]
 }
